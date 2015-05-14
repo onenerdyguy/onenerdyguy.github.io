@@ -1,6 +1,6 @@
 ---
-layout = post
-title = PDQ Deploy + Fog = Awesomesauce
+layout: post
+title : PDQ Deploy + Fog = Awesomesauce
 ---
 
 I've been using the [FogProject](https://fogproject.org) for imaging for quite a while now. It's been a fantastic answer to most of my 
