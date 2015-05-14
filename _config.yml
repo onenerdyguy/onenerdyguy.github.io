@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Bob Hendersen  
+title:            Bob Henderson  
 tagline:          'Tech, all the time.'
-description:      
+description:      K-12 Tech taking it one day at a time. One mans experiences with day to day life in a K-12 school with 1:1 laptops.
 url:              http://bobhenderson.org
 baseurl:          /
 
