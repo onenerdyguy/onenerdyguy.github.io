@@ -7,8 +7,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Bob Henderson
-tagline:          'K-12 Tech, taking it one day at a time.'
+title:            BobHenderson
+tagline:          'Tech, all the time.'
 description:      
 url:              http://bobhenderson.org
 baseurl:          /
